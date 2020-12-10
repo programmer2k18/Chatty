@@ -19,4 +19,5 @@ Xampp v3.2.3
    - Create a database called chat_db
    - run the following command php artisan migrate to create models
 
-3. Run the Application through command php artisan serve
+3. run npm run watch to watch changes.
+4. Run the Application through command php artisan serve
